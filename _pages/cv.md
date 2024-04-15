@@ -11,7 +11,10 @@ redirect_from:
 
 Education
 ======
-* MPhil in Biological Science (Psychology), University of Cambridge, 10/2021 – 02/2023
+* University of Cambridge, Department of Psychology, Cambridge, UK
+  + MPhil in Biological Science (Psychology) 10/2021 – 02/2023
+    - Concentration: Electroencephalography (EEG), Psycholinguistics, Natural Language Processing
+# MPhil in Biological Science (Psychology), University of Cambridge, 10/2021 – 02/2023
 
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
