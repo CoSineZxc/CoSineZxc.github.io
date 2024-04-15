@@ -17,8 +17,7 @@ Education
 * **Tongji University, College of Electronics and Information Engineering** Shanghai, CN
   + B.E. Computer Science and Technology 09/2016 ‑ 06/2020
     - **Concentration**: : Machine Learning, Brain‑Computer Interface
-    - **Coursework**: Machine learning, Natural Language Processing, Algorithm Analysis and Design, Database Systems, Data Structures, Wed Tech‑
-nology, Operating System
+    - **Coursework**: Machine learning, Natural Language Processing, Algorithm Analysis and Design, Database Systems, Data Structures, Wed Technology, Operating System
 
 
 Research Experience
