@@ -11,16 +11,17 @@ redirect_from:
 
 Education
 ======
-* University of Cambridge, Department of Psychology, Cambridge, UK
+* **University of Cambridge, Department of Psychology** Cambridge, UK
   + MPhil in Biological Science (Psychology) 10/2021 – 02/2023
-    - Concentration: Electroencephalography (EEG), Psycholinguistics, Natural Language Processing
-# MPhil in Biological Science (Psychology), University of Cambridge, 10/2021 – 02/2023
+    - **Concentration**: Electroencephalography (EEG), Psycholinguistics, Natural Language Processing
+* **Tongji University, College of Electronics and Information Engineering** Shanghai, CN
+  + B.E. Computer Science and Technology 09/2016 ‑ 06/2020
+    - **Concentration**: : Machine Learning, Brain‑Computer Interface
+    - **Coursework**: Machine learning, Natural Language Processing, Algorithm Analysis and Design, Database Systems, Data Structures, Wed Tech‑
+nology, Operating System
 
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
+Research Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
