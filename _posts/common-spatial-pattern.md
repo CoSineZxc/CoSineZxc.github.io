@@ -1,0 +1,11 @@
+---
+title: 'Common Spatial Pattern'
+date: 2024-04-15
+permalink: /posts/2024/04/commonspatialpattern/
+tags:
+  - CSP
+  - EEG
+  - BCI
+---
+
+<!--This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. -->
