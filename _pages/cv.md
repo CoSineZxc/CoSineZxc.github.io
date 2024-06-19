@@ -74,7 +74,21 @@ Skills
   * Machine learning frameworks: Keras, PyTorch, scikit‑learn, Stan
   * Psychology and neuroimaging toolbox: MNE-python, EEGLAB, E‑Prime, Psychopy, Prolific, Qualtrics
   * Website framework: Django, bootstrap, jQuery, wordpress
-  
-Service and leadership
+
+Achievements
 ======
-* Currently signed in to 43 different slack teams
+* 2020 The First Prize, Excellent Graduate of Tongji University China
+* 2020 The First Prize, Excellent thesis for graduating student of Tongji University China
+* 2019 The First Prize, The Challenge Cup‑2019 of Tongji University China
+* 2018 The First Prize, Tongji Scholarship for Social Practice China
+* 2018 The Third Prize, CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling) of Shanghai China
+* 2017 The Third Prize, Tongji Scholarship of Excellence China
+
+Interests
+======
+* Music 
+  * member of Cambridge Graduate Orchestra
+  * member of Cambridge University Wind Orchestra
+  * member of Orchestra of Tongji University
+* Docent 
+  * Volunteer docent in Shanghai LuXun Museum
