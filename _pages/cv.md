@@ -50,6 +50,18 @@ Research Experience
   * **Responsibility**: EEG data collection and preprocessing, Algorithm implementation, Model verification, Software development
   * **Supervisor**: [Dr. Jie Li](https://see.tongji.edu.cn/info/1386/10462.htm)
   
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
 Skills
 ======
 * Research Interest
@@ -61,20 +73,7 @@ Skills
 * Frameworks and Tools
   * Machine learning frameworks: Keras, PyTorch, scikit‑learn, Stan
   * Psychology and neuroimaging toolbox: MNE-python, EEGLAB, E‑Prime, Psychopy, Prolific, Qualtrics
-  * Website framework: Django, bootstrap, jQuery, wordpress.org
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
+  * Website framework: Django, bootstrap, jQuery, wordpress
   
 Service and leadership
 ======
