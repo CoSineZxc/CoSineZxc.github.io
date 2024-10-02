@@ -12,4 +12,4 @@ I am a Research Assistant at the [Centre for Neuroscience in Education (CNE)](ht
 
 My current research is mainly about the Development of Brain-Computer Interface (BCI) for Developmental Language Disorder. My research interest is mainly about Brain Computer Interface and the clinical use of machine learning algorithms with neuroimaging data.
 
-Feel free to contact me by email: xz449 at cam.ac.uk
+Feel free to contact me by email: xz449 [at] cam.ac.uk
