@@ -13,11 +13,13 @@ Education
 ======
 * **University of Cambridge, Department of Psychology** Cambridge, UK
   + MPhil in Biological Science (Psychology) 10/2021 – 02/2023
-    - **Concentration**: Electroencephalography (EEG), Psycholinguistics, Natural Language Processing
+    - **Concentration**: Neuroimaging data processing, Psycholinguistics, Natural Language Processing
+    - **Dissertation**: The modification of high‑level attentional processing in bilingualism
 * **Tongji University, College of Electronics and Information Engineering** Shanghai, CN
   + B.E. Computer Science and Technology 09/2016 ‑ 06/2020
     - **Concentration**: Machine Learning, Brain‑Computer Interface (BCI)
     - **Coursework**: Machine learning, Natural Language Processing, Algorithm Analysis and Design, Database Systems, Data Structures, Wed Technology, Operating System
+    - **Dissertation**: Motor Imagery Brain Computer Interface based on Transfer Learning (Awarded **Excellent Thesis**, Tongji University)
 
 
 Research Experience
@@ -48,7 +50,7 @@ Research Experience
     * Pattern analysis of ERP feature of Chinese vocabulary processing under TMS
     * Stroke recovery based on body ownership BCI system in Virtual Reality
   * **Responsibility**: EEG data collection and preprocessing, Algorithm implementation, Model verification, Software development
-  * **Supervisor**: [Dr. Jie Li](https://see.tongji.edu.cn/info/1386/10462.htm)
+  * **Supervisor**: [Dr. Jie Li](https://see.tongji.edu.cn/info/1386/10462.htm) and [Prof. Jie Zhuang](https://xlxy.sus.edu.cn/info/1008/1229.htm)
   
 Publications
 ======
