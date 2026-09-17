@@ -12,6 +12,9 @@ redirect_from:
 Education
 ======
 * **University of Cambridge, Department of Psychology** Cambridge, UK
+  + PhD in Biological Science (Psychology) 10/2025 – present
+    - **Concentration**: EEG Language Neurotechnology, BCI for Language Disorders, Dyslexia and DLD Neurotech
+* **University of Cambridge, Department of Psychology** Cambridge, UK
   + MPhil in Biological Science (Psychology) 10/2021 – 02/2023
     - **Concentration**: Neuroimaging data processing, Psycholinguistics, Natural Language Processing
     - **Dissertation**: The modification of high‑level attentional processing in bilingualism
@@ -26,8 +29,8 @@ Research Experience
 ======
 * 11/2023 – present: Research Assistant
   * **[Centre for Neuroscience in Education](https://www.cne.psychol.cam.ac.uk/)**, University of Cambridge
-  * **Research Topic**: EEG‑based BCI for Developmental Dyslexia and Developmental Language Disorder.
-  * **Responsibility**: model construction, EEG data collection with children
+  * **Research Topic**: Computational EEG and speech modeling for Developmental Dyslexia and Developmental Language Disorder.
+  * **Responsibility**: model construction; data collection with children; Paper writing
   * **Supervisor**: [Prof. Usha Goswami](https://www.cne.psychol.cam.ac.uk/staff/usha-goswami)
 
 * 11/2022 – 10/2023: Research Assistant
@@ -92,5 +95,7 @@ Interests
   * member of Cambridge Graduate Orchestra
   * member of Cambridge University Wind Orchestra
   * member of Orchestra of Tongji University
+* Sports
+  * member of Hughes Hall Table Tennis 2nd team
 * Docent 
   * Volunteer docent in Shanghai LuXun Museum
