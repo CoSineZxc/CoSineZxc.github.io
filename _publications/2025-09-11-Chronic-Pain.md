@@ -1,0 +1,11 @@
+---
+title: "Short-term variability of chronic musculoskeletal pain"
+collection: publications
+permalink: /publication/2025-09-11-Chronic-Pain
+excerpt: 'Short-term variability in chronic musculoskeletal pain is clinically significant, correlating with pain severity and providing insights for personalized pain management.'
+date: 2025-09-11
+venue: 'Frontiers in Pain Research'
+paperurl: 'https://doi.org/10.3389/fpain.2025.1626589'
+citation: 'Zheng, X., Rajwal, S., Ashworth, C., Ho, S. Y. S., Seymour, B., Shenker, N., & Mancini, F. (2025). Short-term variability of chronic musculoskeletal pain. Frontiers in Pain Research, 6. https://doi.org/10.3389/fpain.2025.1626589'
+---
+Chronic musculoskeletal (MSK) pain can be characterized by its temporal variability and evolution, affecting both pain management and treatment outcomes. While pain variability is traditionally studied over long timescales (e.g. days or weeks), few studies have explored short-term fluctuations (e.g. minutes to seconds) and their clinical relevance. This study investigated the short-term variability of chronic musculoskeletal pain across consecutive days, examining whether these fluctuations are stable, exhibit consistent temporal patterns, and relate to clinical severity. We also explored whether individuals with chronic MSK pain could predict their pain intensity on the following day, suggesting an ability to learn about their pain’s levels. Eighty-one participants with chronic MSK pain to the back, neck, leg or arm (22–65 years, 72% females, 28% males) rated their pain continuously over two days, using a smartphone-based app. Results indicated that pain ratings were stable and exhibited consistent temporal patterns across days, with a temporally correlated structure. High mean pain levels were associated with lower variability, possibly reflecting a stabilized pain state. Short-term pain variability negatively correlated with clinical severity, indicating that greater variability is linked to milder pain. These findings highlight the importance of short-term variability as a distinct and clinically relevant feature of chronic MSK pain, with implications for personalized pain management strategies.

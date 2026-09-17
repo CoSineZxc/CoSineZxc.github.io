@@ -1,0 +1,11 @@
+---
+title: "Word selection, concreteness and brain lateralization"
+collection: publications
+permalink: /publication/2025-11-05-Word-Selection
+excerpt: 'fMRI evidence reveals distinct neural mechanisms for semantic selection and competition in Mandarin Chinese, dynamically modulated by word concreteness.'
+date: 2025-11-05
+venue: 'Brain and Language'
+paperurl: 'https://doi.org/10.1016/j.bandl.2025.105659'
+citation: 'Zhao, J., Zhao, Y., Zheng, X., Wang, X., Ning, Z., Chen, Y., Ji, H., Li, J., & Zhuang, J. (2025). Word selection, concreteness and brain lateralization. Brain and Language, 272, 105659–105659. https://doi.org/10.1016/j.bandl.2025.105659'
+---
+Semantic control enables context-dependent retrieval of meaning by resolving competition among semantic alternatives. While previous research has implicated left frontal and temporal areas in this process, the dissociation between semantic selection and semantic competition, especially in the domain of written Chinese and across concrete vs. abstract words, remains unclear. Using a parametric modulation fMRI design and a semantic triad task in Mandarin Chinese, we manipulated cue-target and cue-distractor semantic similarity to independently assess selection and competition demands. Activation patterns and functional connectivity were examined across concrete and abstract word conditions. Semantic selection engaged widespread, left-lateralized control and integration networks, while competition primarily activated bilateral superior frontal and insular cortices associated with domain-general conflict monitoring. Word concreteness significantly modulated both processes: concrete word retrieval engaged perceptual and episodic memory systems, whereas abstract word retrieval relied on left inferior frontal and temporal systems. Connectivity analyses showed task- and stimulus-specific modulation of LMFG-RIPL and LMFG-RITG interactions, although these patterns did not survive FDR correction. Semantic selection and competition are functionally dissociable yet dynamically modulated by lexical-semantic features such as concreteness. These findings refine our understanding of the neurocognitive architecture of semantic control.
